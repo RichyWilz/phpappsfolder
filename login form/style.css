@@ -1,0 +1,32 @@
+body{
+    margin-left: 30vw;
+    background:linear-gradient(45deg,blue,purple,green);   
+}
+form{
+    font-size: 20px;
+    /* columns:; */
+    height: 100%;
+    background-color: #F5EFE7;
+    border-radius: 5px;
+    width:50%;
+}
+.error{
+    color:#FF0000;
+}
+input {
+    font-size: 20px;
+    border-width: 2px;
+    border-radius: 3px;
+    border-color: black;
+    height:35px;
+    width:80%;
+    margin-left: 40px;
+
+}
+label{
+    margin-left: 40px;
+}
+#submit{
+    width:81%;
+    background-color: #4F709C;
+}
