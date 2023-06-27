@@ -1,0 +1,10 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* to make the images fit on the page well */
+.carousel-item img{
+    width:100%;
+    height:95vh;
+}
