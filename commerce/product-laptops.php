@@ -1,7 +1,7 @@
 <?php
 $conn = mysqli_connect('localhost', 'root', '', 'product');
 // mysqli_select_db($conn, 'product');
-$sql = "SELECT * FROM products WHERE feature=1";
+$sql = "SELECT * FROM products WHERE feature=2";
 $feature = mysqli_query($conn, $sql);
 ?>
 
